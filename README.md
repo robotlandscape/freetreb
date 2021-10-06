@@ -1,5 +1,5 @@
 # Freetreb
-*It isn't cheating if it's allowed!*
+*It ain't cheating if it's allowed!*
 
 Are you building a trebuchet for your WHS Physics assignment? Do you have no idea how to build a trebuchet, hopelessly looking at designs online built by people just as frantic as you are? Is it October 25th and your trebuchet is still firing backwards? 
 
