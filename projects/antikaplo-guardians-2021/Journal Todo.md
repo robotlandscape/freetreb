@@ -1,5 +1,5 @@
  - [ ] Finish CAD of Trebuchet
  - [ ] "Calculations including: X and Y components of velocity, initial velocity vector shown graphically (as the sum of the components) and calculated analytically, and maximum height. You will be supplied with the time of flight and range of your projectile."
- - [ ] A written discussion of your major design considerations.  Specifically, placement of the main axle on the throwing arm, throwing arm material and geometry, structural integrity, counterweight type, and sling fabrication and design.  Modifications to design, experimentation and trials should also be discussed here. 
+ - [x] A written discussion of your major design considerations.  Specifically, placement of the main axle on the throwing arm, throwing arm material and geometry, structural integrity, counterweight type, and sling fabrication and design.  Modifications to design, experimentation and trials should also be discussed here. 
  - [ ] A couple pictures. 
    - [ ] If I have enough time: a 5-10 minute documentary video of the build process :D
