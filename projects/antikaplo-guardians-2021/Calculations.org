@@ -3,9 +3,7 @@
 I'll work in terms of variables for now, then substitute my values in afterwards. 
 
 d = distance
-
 t = time of flight
-
 h = release height (it's not released from the floor!)
-
 v_x = 
+\[ \int_0ˆx \]
