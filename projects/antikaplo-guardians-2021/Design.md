@@ -17,9 +17,15 @@ stories from past years of throwing arms snapping. Therefore, we got a thicker p
 
 Structural integrity was something we took somewhat for granted, but we knew generally what we wanted. Each trestle was supported by triangles along the throwing axis. **However one thing I would do differently if I were to do this project again would be to have the supporting trestles inside the base**, because that way the base would almost act as a "pen" for the trestles to live in, versus what we have which is the trestles on top of the base, just screwed on. 
 
+### Wheels
+
+We added wheels to our trebuchet. This is one of the most distinctive part of our design, as out of the 57 teams that participated this year, I only observed 3 teams, including us, with wheels on our trebuchet. The rationale behind this decision was that the potential energy of the weight is better utilized when the weight drops *straight down*. (source: https://www.youtube.com/watch?v=-gn2RGPqe_A) In hindsight it would have been just as effective to calculate the proper length that the counterweight arm would need to be, but we didn't do this. 
+
 ### Counterweight
 
 The counterweight is 150 lbs of lifting weights. If I were to do this project again I'd have a system to modify the weight better, I saw some people with a basket that they put their weight in, which, although it didn't look as nice as ours, we didn't have as much flexibility to change them out as much (it was quite an ordeal to get the first ones on).
+
+Our rationale for how long to make the counterweight arm was mostly based on what would fit without hitting the sliding board, but we accounted for the otherwise worse efficiency with wheels (see above)
 
 ### Sling
 
@@ -28,6 +34,7 @@ The sling was made quite nicely out of some crocodile leather that my partner ha
 ### Release hook
 
 The release hook (where the sling released the balloon was just a nail. We were going to do something fancy but ran out of time. Do a nail, it works fantastically and you can modify the release angle with a pair of pliers. 
+
 
 ### Beautification
 
