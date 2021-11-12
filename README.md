@@ -21,7 +21,8 @@ So what we have to offer you is a repository of open source trebuchet designs, a
 
 ## Before you continue...
 
-The Honor System applies. Don't cheat, don't take anyone's work verbatim. If you find this resource useful, then *please* contribute back and add your 
-own designs and documentation. In fact, as far as I'm aware, Mr. Kaplo is alright if you do your journal-work here instead of/in addition to your actual journal. 
+My only condition for using this free resource is that you contribute back. If you find the information that I (and eventually others) have put here, then to have it be a fair trade, *please* put your own treb here. The Honor System applies. Don't cheat, don't take anyone's work verbatim. 
+
+Mr. Kaplo is alright if you do your journal-work here instead of/in addition to your actual journal. 
 
 If you have trouble using github itself, then take a look at the file CONTRIBUTING.md, it should tell you enough to get started on adding your treb here :D
