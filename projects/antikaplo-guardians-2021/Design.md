@@ -37,7 +37,7 @@ The release hook (where the sling released the balloon was just a nail. We were 
 
 ### Safety/Release pin
 
-To release our trebuchet and hold it tight, we had an I-hook system on the throwing arm and two on the base of the treb. A pin went through all three and stayed there until we wanted to release, at which point we would pull horizontally and it would release. 
+To release our trebuchet and hold it tight, we had an I-hook system on the throwing arm and two on the base of the treb. A pin went through all three and stayed there until we wanted to release, at which point we would pull horizontally and it would release. See the CAD design for a visual.
 
 ### Beautification
 
