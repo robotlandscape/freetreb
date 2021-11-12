@@ -21,6 +21,6 @@ So what we have to offer you is a repository of open source trebuchet designs, a
 
 ## Before you continue...
 
-The Honor System applies. Don't cheat, don't take anyone's work verbatim. If you find this (these?) resource useful, then *please* contribute back and add your 
+The Honor System applies. Don't cheat, don't take anyone's work verbatim. If you find this resource (resources?) useful, then *please* contribute back and add your 
 own designs and documentation. In fact, as far as I'm aware, Mr. Kaplo is alright if you do your journal-work here instead of/in addition to your actual journal. 
 
