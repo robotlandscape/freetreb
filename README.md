@@ -12,12 +12,15 @@ Are you thinking about sinking so low as to go to the Windham black market for t
 
 *All of the above?*
 
--------------
 
-**Look no further!** This is a repository of fellow sleep-deprived trebuchet-builders to record and document what worked for them, what didn't, how they fixed problems, and what their final result was. Because trebuchet day is an assignment and not necessarily a competition, collaboration benefits everyone who contributes! 
+### Look no further! 
 
-So what we have to offer you (not as of 2021 maybe because we're just getting started, feel free to contribute anyway) is a repository of open source trebuchet designs, and an in-depth showcase of what works and what worksn't. This *is* allowed by Mr. Kaplo, encouraged by him in fact. If you wish, you may even use this repository as your own journal! I think anyway.
+This is a repository of fellow sleep-deprived trebuchet-builders to record and document what worked for them, what didn't, how they fixed problems, and what their final result was. Because trebuchet day is an assignment and not necessarily a competition, collaboration benefits everyone who contributes! 
+
+So what we have to offer you is a repository of open source trebuchet designs, an in-depth showcase of what works, what worksn't, and how to build your own water balloon-launching instrument of carnage. 
 
 ## Before you continue...
 
+The Honor System applies. Don't cheat, don't take anyone's work verbatim. If you find this (these?) resource useful, then *please* contribute back and add your 
+own designs and documentation. In fact, as far as I'm aware, Mr. Kaplo is alright if you do your journal-work here instead of/in addition to your actual journal. 
 
