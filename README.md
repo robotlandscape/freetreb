@@ -1,8 +1,23 @@
-# Freetreb
-*It ain't cheating if it's allowed!*
+# Freetreb: Open Source Trebuchet Documentation
 
-Are you building a trebuchet for your WHS Physics assignment? Do you have no idea how to build a trebuchet, hopelessly looking at designs online built by people just as frantic as you are? Is it October 25th and your trebuchet is still firing backwards? Are you thinking about sinking so low as to go to the Windham black market for trebuchets? All of the above?
+> It ain't cheating if it's allowed!
 
-**Look no further!** This is a repository of fellow sleep-deprived trebuchet-builders to record and document what worked for them, what didn't work, how they fixed problems, and what their final result was. Because trebuchet day is an assignment and not nessisarily a competition, collaboration benefits everyone who contribute! 
+Are you building a trebuchet for your WHS Physics assignment? 
 
-So what we have to offer you (not as of 2021 maybe because we're just getting started, feel free to contribute anyway) is a repository of open source trebuchet designs, and what generally works and what worksn't. This *is* allowed by Mr. Kaplo, encouraged by him in fact. **My only request is that if you use the resources put here, you contribute back and add your own trebuchet.** See the template for what you should add. 
+Do you have no idea how to build a trebuchet, hopelessly looking at designs online built by people just as frantic as you are? 
+
+Is it October 25th and your trebuchet is still firing backwards? 
+
+Are you thinking about sinking so low as to go to the Windham black market for trebuchets? 
+
+*All of the above?*
+
+-------------
+
+**Look no further!** This is a repository of fellow sleep-deprived trebuchet-builders to record and document what worked for them, what didn't, how they fixed problems, and what their final result was. Because trebuchet day is an assignment and not necessarily a competition, collaboration benefits everyone who contributes! 
+
+So what we have to offer you (not as of 2021 maybe because we're just getting started, feel free to contribute anyway) is a repository of open source trebuchet designs, and an in-depth showcase of what works and what worksn't. This *is* allowed by Mr. Kaplo, encouraged by him in fact. If you wish, you may even use this repository as your own journal! I think anyway.
+
+## Before you continue...
+
+
