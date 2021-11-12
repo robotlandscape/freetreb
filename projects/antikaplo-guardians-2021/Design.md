@@ -31,10 +31,13 @@ Our rationale for how long to make the counterweight arm was mostly based on wha
 
 The sling was made quite nicely out of some crocodile leather that my partner had lying around. We made it into an X shape, sowed it together, sowed each of the two arms together almost like an infinity sign, and added gromets to each end. We also added a piece of gorilla tape to the bottom of the sling (the side that dragged on the sliding board) to fix it releasing too early/late. 
 
-### Release hook
+#### Sling hook
 
 The release hook (where the sling released the balloon was just a nail. We were going to do something fancy but ran out of time. Do a nail, it works fantastically and you can modify the release angle with a pair of pliers. 
 
+### Safety/Release pin
+
+To release our trebuchet and hold it tight, we had an I-hook system on the throwing arm and two on the base of the treb. A pin went through all three and stayed there until we wanted to release, at which point we would pull horizontally and it would release. 
 
 ### Beautification
 
