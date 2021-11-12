@@ -1,8 +1,27 @@
-# Freetreb
-*It ain't cheating if it's allowed!*
+# Freetreb: Open Source Trebuchet Documentation
 
-Are you building a trebuchet for your WHS Physics assignment? Do you have no idea how to build a trebuchet, hopelessly looking at designs online built by people just as frantic as you are? Is it October 25th and your trebuchet is still firing backwards? Are you thinking about sinking so low as to go to the Windham black market for trebuchets? All of the above?
+> It ain't cheating if it's allowed!
 
-**Look no further!** This is a repository of fellow sleep-deprived trebuchet-builders to record and document what worked for them, what didn't work, how they fixed problems, and what their final result was. Because trebuchet day is an assignment and not nessisarily a competition, collaboration benefits everyone who contribute! 
+Are you building a trebuchet for your WHS Physics assignment? 
 
-So what we have to offer you (not as of 2021 maybe because we're just getting started, feel free to contribute anyway) is a repository of open source trebuchet designs, and what generally works and what worksn't. This *is* allowed by Mr. Kaplo, encouraged by him in fact. **My only request is that if you use the resources put here, you contribute back and add your own trebuchet.** See the template for what you should add. 
+Do you have no idea how to build a trebuchet, hopelessly looking at designs online built by people just as frantic as you are? 
+
+Is it October 25th and your trebuchet is still firing backwards? 
+
+Are you thinking about sinking so low as to go to the Windham black market for trebuchets? 
+
+*All of the above?*
+
+
+### Look no further! 
+
+This is a repository of fellow sleep-deprived trebuchet-builders to record and document what worked for them, what didn't, how they fixed problems, and what their final result was. Because trebuchet day is an assignment and not necessarily a competition, collaboration benefits everyone who contributes! 
+
+So what we have to offer you is a repository of open source trebuchet designs, an in-depth showcase of what works, what worksn't, and how to build your own water balloon-launching instrument of carnage. 
+
+## Before you continue...
+
+The Honor System applies. Don't cheat, don't take anyone's work verbatim. If you find this resource useful, then *please* contribute back and add your 
+own designs and documentation. In fact, as far as I'm aware, Mr. Kaplo is alright if you do your journal-work here instead of/in addition to your actual journal. 
+
+If you have trouble using github itself, then take a look at the file CONTRIBUTING.md, it should tell you enough to get started on adding your treb here :D

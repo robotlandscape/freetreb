@@ -1,0 +1,14 @@
+Dimension,value,units,notes
+Throwing arm,1.75,meters,
+Base Length,1.3125,meters,
+Base Width,0.4370,meters,
+Trestle Height,0.98,meters,
+Throwing arm ratio,3.75:1,,
+Throwing side of throwing arm,1.3815,meters,
+Counterweight side of throwing arm,0.3684,meters,
+Sling Length,1.3815,meters,same as throwing arm side length
+Standard Water Baloon,500,Milliliters,also 18 OZ
+Counterweight weight,68.03,Kilograms,also 150 lbs
+Counterweight arm length,0.689,meters,
+Wood Type,Maple,,
+Wood density,700,kg per cubic meter,based on https://matmatch.com/learn/property/density-of-wood
